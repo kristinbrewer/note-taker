@@ -20,12 +20,12 @@ app.use('/api', api);
 app.use(express.static('public'));
 
 //GET route for index.html
-app.get('/', (req, res) =>
+app.get('*', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/index.html'))
 );
 
 //GET route for notes.html
-app.get('/', (req, res) =>
+app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
