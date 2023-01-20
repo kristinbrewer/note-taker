@@ -4,7 +4,10 @@ User will use Heroku application to write and save notes
 ## Description
 This Heroku application allows users to dynamically generate and organize notes. When users opens the Note Taker they are presented with a landing page, when user clicks the link, they are taken to the note page. On the note page, existing notes are listed on the left-hand column plus empty fields to enter a new note title and note's text. There is a save button in the upper right hand portion of screen and when note is saved, it will appear in the left hand column. A delete button is next to saved notes to delete when user is finished with note. 
 
-![Mockup of Note Taker Application.](./dist/TeamProfileGen.png)
+![Mockup of Note Taker Application2.](./helpers/NoteTaker2.png)
+![Mockup of Note Taker Application1 .](./helpers/NoteTaker1.png)
+
+
 
 
 [GitHub Repo](https://github.com/kristinbrewer/note-taker)
