@@ -12,6 +12,7 @@ This Heroku application allows users to dynamically generate and organize notes.
 
 [GitHub Repo](https://github.com/kristinbrewer/note-taker)
 
+[Heroku Deployment](https://kbosu-note-taker.herokuapp.com/)
 
 
 ## Table of Contents
